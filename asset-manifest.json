@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "https://yongenaelf.github.io/blocks/static/css/main.5429e8d4.chunk.css",
+    "main.js": "https://yongenaelf.github.io/blocks/static/js/main.bfaf73e2.chunk.js",
+    "main.js.map": "https://yongenaelf.github.io/blocks/static/js/main.bfaf73e2.chunk.js.map",
+    "runtime-main.js": "https://yongenaelf.github.io/blocks/static/js/runtime-main.437ab7d3.js",
+    "runtime-main.js.map": "https://yongenaelf.github.io/blocks/static/js/runtime-main.437ab7d3.js.map",
+    "static/css/2.58a45539.chunk.css": "https://yongenaelf.github.io/blocks/static/css/2.58a45539.chunk.css",
+    "static/js/2.bc7a1703.chunk.js": "https://yongenaelf.github.io/blocks/static/js/2.bc7a1703.chunk.js",
+    "static/js/2.bc7a1703.chunk.js.map": "https://yongenaelf.github.io/blocks/static/js/2.bc7a1703.chunk.js.map",
+    "index.html": "https://yongenaelf.github.io/blocks/index.html",
+    "static/css/2.58a45539.chunk.css.map": "https://yongenaelf.github.io/blocks/static/css/2.58a45539.chunk.css.map",
+    "static/css/main.5429e8d4.chunk.css.map": "https://yongenaelf.github.io/blocks/static/css/main.5429e8d4.chunk.css.map",
+    "static/js/2.bc7a1703.chunk.js.LICENSE.txt": "https://yongenaelf.github.io/blocks/static/js/2.bc7a1703.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "https://yongenaelf.github.io/blocks/static/media/silkamono-medium-webfont.d58546ce.ttf",
+    "static/media/crosshair.56bc65e4.svg": "https://yongenaelf.github.io/blocks/static/media/crosshair.56bc65e4.svg",
+    "static/media/download.c2f3d136.svg": "https://yongenaelf.github.io/blocks/static/media/download.c2f3d136.svg",
+    "static/media/file-plus.4963f216.svg": "https://yongenaelf.github.io/blocks/static/media/file-plus.4963f216.svg",
+    "static/media/folder-open.d6513226.svg": "https://yongenaelf.github.io/blocks/static/media/folder-open.d6513226.svg",
+    "static/media/folder-wide.5419e217.svg": "https://yongenaelf.github.io/blocks/static/media/folder-wide.5419e217.svg",
+    "static/media/folder.a7303d9c.svg": "https://yongenaelf.github.io/blocks/static/media/folder.a7303d9c.svg",
+    "static/media/gradient.eb907e12.svg": "https://yongenaelf.github.io/blocks/static/media/gradient.eb907e12.svg",
+    "static/media/learning.e20f496a.svg": "https://yongenaelf.github.io/blocks/static/media/learning.e20f496a.svg",
+    "static/media/menu.d1e11041.svg": "https://yongenaelf.github.io/blocks/static/media/menu.d1e11041.svg",
+    "static/media/save.71e2bc2f.svg": "https://yongenaelf.github.io/blocks/static/media/save.71e2bc2f.svg",
+    "static/media/settings.3145a410.svg": "https://yongenaelf.github.io/blocks/static/media/settings.3145a410.svg",
+    "static/media/share.e2e0e31f.svg": "https://yongenaelf.github.io/blocks/static/media/share.e2e0e31f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.437ab7d3.js",
+    "static/css/2.58a45539.chunk.css",
+    "static/js/2.bc7a1703.chunk.js",
+    "static/css/main.5429e8d4.chunk.css",
+    "static/js/main.bfaf73e2.chunk.js"
+  ]
+}
